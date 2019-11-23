@@ -1,8 +1,8 @@
 import React from "react";
 import { makeStyles } from "@material-ui/core/styles";
 import TextField from "@material-ui/core/TextField";
-import Button from "@material-ui/core/Button";
-import Checkbox1 from "../checkbox/CheckBox";
+import Button from '@material-ui/core/Button';
+import Checkbox1 from "../Checkboxes/Chexkbox";
 import MoreHorizIcon from "@material-ui/icons/MoreHoriz";
 
 const useStyles = makeStyles(theme => ({
